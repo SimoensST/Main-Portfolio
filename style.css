@@ -109,7 +109,7 @@ p {
 .contact-me {
   height: 350px;
   background-color: #202020;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 
 .contact-headline {
@@ -142,4 +142,10 @@ li {
 .hire-me {
   border-style: solid;
   border-color: white;
+}
+
+.resume {
+  height: 350px;
+  background-color: #202020;
+  padding-top: 10px;
 }
